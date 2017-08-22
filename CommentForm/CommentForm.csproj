@@ -163,6 +163,7 @@
     </Compile>
     <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\CommentFormContext.cs" />
+    <Compile Include="Models\MyCommentFormViewModel.cs" />
     <Compile Include="Models\Procedure.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -204,11 +205,6 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\CommentForms\Create.cshtml" />
-    <Content Include="Views\CommentForms\Delete.cshtml" />
-    <Content Include="Views\CommentForms\Details.cshtml" />
-    <Content Include="Views\CommentForms\Edit.cshtml" />
-    <Content Include="Views\CommentForms\Index.cshtml" />
     <Content Include="Views\Comments\Create.cshtml" />
     <Content Include="Views\Comments\Delete.cshtml" />
     <Content Include="Views\Comments\Details.cshtml" />
